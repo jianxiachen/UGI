@@ -1,7 +1,7 @@
 clc; clear; close all;
 
 %% === 初始化参数 ===
-size1 = 129; size2 = 129; size3 = 5;
+size1 = 129; size2 = 129; size3 = 15;
 size12 = size1 * size2;
 size123 = size12 * size3;
 
